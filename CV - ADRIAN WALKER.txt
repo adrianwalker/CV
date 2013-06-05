@@ -1,0 +1,138 @@
+ADRIAN WALKER
+
+Email: adrian.walker@bcs.org
+Date of Birth: 2nd July, 1982
+Marital Status: Single
+Nationality: British
+Driving Licence: 12 years, clean
+
+A programmer with nine years experience developing bespoke systems programmed
+mainly in Java.  Now seeking new software engineering challenges and career
+development prospects.  An excellent problem solver with a passion for learning
+new skills.
+
+
+EXPERIENCE
+
+Senior Developer
+ioko / KIT Digital
+August 2010 – present
+
+Designing and building web applications, desktop applications and data
+processing systems for our client, IMS Health.  Programming systems in Java, TCL
+and Python, backed by Oracle, MySQL and Postgres databases responsible for the 
+delivery, storage, processing and reporting of global data streams.  Using agile
+development practices to produce data delivery solutions for deployment to 
+pharmacies, internally and externally managed Linux environments, and workflow
+tools for data processing and manipulation.
+
+Systems Developer
+The Food and Environment Research Agency
+April 2009 – August 2010
+
+Developing commercial and in-house computer systems to further the Science of
+FERA and a range of internal and external stakeholders e.g. DEFRA, the EU and
+other government bodies.  Responsible for the design and development of web
+applications, mobile applications, databases and information systems in Java, 
+ColdFusion and SQL Server.
+
+Java Developer
+Erudine
+July 2008 – April 2009
+
+Developer on customer projects in sectors as diverse as education, commercial 
+and government. Using agile and extreme programming techniques to deliver high 
+quality, innovative systems to meet tight deadlines.  Also working on the latest
+release of the company’s product the 'Behaviour Engine' - a test driven rule 
+engine and graphical authoring environment written in Java.
+
+Information Systems Developer
+The University Of York
+December 2007 – July 2008
+
+Developer for the Department of Biology.  Responsible for the implementation of 
+the department’s electronic information strategy.  Developing bespoke, data 
+driven, interactive web sites in Java with MySQL storage to manage and increase
+the availability of dynamic information.  Extending and deploying an open source
+Enterprise Content Management system to hold the Department’s administration and
+research data.
+
+Analyst Programmer
+The British Library
+May 2004 – December 2007
+
+Working on a variety of projects as part of the remote document supply team, 
+working mainly on search, ordering, processing and payment systems, fronted with
+web interfaces.  Designing, developing and deploying systems making use of large
+customer and bibliographic information databases, programming in Java and Perl 
+with SQL Server and Live Link Discovery Server text retrieval database.
+
+
+QUALIFICATIONS / MEMBERSHIPS
+
+BEng Hons, Computer Systems Engineering (2:ii)
+University Of Warwick
+2000 – 2003
+
+3-year course taught by the Department of Computer Science and the School of 
+Engineering.  This course combined study of both the hardware and software 
+aspects of computers, with study of the engineering systems in which they are 
+used.
+
+A Level Physics (A), Mathematics (B), Chemistry (C), General Studies (C), 
+AS Level Computing (A)
+Fulford School, York
+1998 – 2000              	
+
+Professional Membership (MBCS)
+The British Computer Society
+2004 – present
+
+Security Check (SC) Cleared
+2008 – 2014
+
+
+TECHNICAL SKILLS
+
+Programming Languages:-
+Java SDK 1.3 – 7, J2EE/Java EE 5/6, Java ME Personal 
+Profile 1.0/1.1, C, JavaScript, TCL, ColdFusion 8, Matlab, Python/Jython, Perl, 
+Bash, XHTML, CSS
+
+Enterprise Java:-
+Tomcat 5/6/7, Glassfish 2/3, Jboss 4, EJB 3/3.1, Jetty, JSP and Servlet 
+programming, Spring, Google Web Toolkit, JSF, Struts, Apache Velocity, SOA / web
+service programming, Java Persistence API (Toplink, EclipseLink and Hibernate), 
+OOP, AOP
+
+Relational Databases:-
+MS SQL Server 2000/2005, MySQL 4/5, Oracle 10g/11g, Postgres 8/9, Apache Derby, 
+HSQLDB, JDBC Programming
+
+Operating Systems:-
+Linux (RedHat/Fedora/CentOS, Debian/Ubuntu, Suse), Windows 2000/XP/7, Solaris, 
+Tru64, VAX VMS
+
+Testing:-
+JUnit, DBUnit, Hudson
+
+XML:-
+WSDL, schema & DTD design, XPath, XSLT, DOM, SAX, StAX, JAX-B
+
+Web Services:-
+Axis 1/2, JAX-WS, SOAP, REST, JSON
+
+Source Control Revision Systems:-
+Git, Subversion (SVN) & CVS, MS Source Safe
+ 
+Build Systems:-
+Apache Maven 1/2, Apache Ant
+
+IDEs:-
+Netbeans, Eclipse, JEdit, ColdFusion Builder
+
+
+REFERENCES
+
+References available on request.
+
