@@ -53,7 +53,7 @@ July 2008 - April 2009
 Developer on customer projects in sectors as diverse as education, commercial 
 and government. Using agile and extreme programming techniques to deliver high 
 quality, innovative systems to meet tight deadlines.  Also working on the latest
-release of the company’s product the 'Behaviour Engine' - a test driven rule 
+release of the company's product the 'Behaviour Engine' - a test driven rule 
 engine and graphical authoring environment written in Java.
 
 Information Systems Developer
@@ -61,10 +61,10 @@ The University Of York
 December 2007 - July 2008
 
 Developer for the Department of Biology.  Responsible for the implementation of 
-the department’s electronic information strategy.  Developing bespoke, data 
+the department's electronic information strategy.  Developing bespoke, data 
 driven, interactive web sites in Java with MySQL storage to manage and increase
 the availability of dynamic information.  Extending and deploying an open source
-Enterprise Content Management system to hold the Department’s administration and
+Enterprise Content Management system to hold the department's administration and
 research data.
 
 Analyst Programmer
@@ -82,7 +82,7 @@ QUALIFICATIONS / MEMBERSHIPS
 
 BEng Hons, Computer Systems Engineering (2:ii)
 University Of Warwick
-2000 – 2003
+2000 - 2003
 
 3-year course taught by the Department of Computer Science and the School of 
 Engineering.  This course combined study of both the hardware and software 
@@ -105,7 +105,7 @@ Security Check (SC) Cleared
 TECHNICAL SKILLS
 
 Programming Languages:-
-Java SDK 1.3 – 8, J2EE/Java EE 5/6, Java ME Personal Profile 1.0/1.1, C, 
+Java SDK 1.3 - 8, J2EE/Java EE 5/6, Java ME Personal Profile 1.0/1.1, C, 
 JavaScript (jQuery, AngularJS), TCL, ColdFusion, Matlab, Python/Jython, Perl, 
 Bash, HTML/XHTML, CSS
 
