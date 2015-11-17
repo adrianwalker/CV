@@ -106,21 +106,19 @@ TECHNICAL SKILLS
 
 Programming Languages:-
 Java SDK 1.3 – 8, J2EE/Java EE 5/6, Java ME Personal Profile 1.0/1.1, C, 
-JavaScript, TCL, ColdFusion 8, Matlab, Python/Jython, Perl, Bash, HTML/XHTML, 
+JavaScript, TCL, ColdFusion, Matlab, Python/Jython, Perl, Bash, HTML/XHTML, 
 CSS
 
 Enterprise Java:-
-Tomcat 5/6/7, Glassfish 2/3, Jboss 4, EJB 3/3.1, Jetty, JSP and Servlet 
-programming, Spring, Google Web Toolkit, JSF, Struts, Apache Velocity, SOA / web
-service programming, Java Persistence API (Toplink, EclipseLink and Hibernate), 
-OOP, AOP
+Tomcat, Glassfish, Jboss, EJB 3/3.1, Jetty, JSP and Servlet programming, Spring,
+Google Web Toolkit, JSF, Struts, Apache Velocity, SOA / web service programming, 
+Java Persistence API (Toplink, EclipseLink and Hibernate), OOP, AOP
 
 Relational Databases:-
-MS SQL Server 2000/2005, MySQL 4/5, Oracle 10g/11g, Postgres 8/9, Apache Derby, 
-HSQLDB, JDBC Programming
+MS SQL Server, MySQL, Oracle, Postgres, Apache Derby, HSQLDB, JDBC Programming
 
 Operating Systems:-
-Linux (RedHat/Fedora/CentOS, Debian/Ubuntu, Suse), Windows 2000/XP/7, Solaris, 
+Linux (RedHat/Fedora/CentOS, Debian/Ubuntu, Suse), Windows Server, Solaris, 
 Tru64, VAX VMS
 
 Testing and Static Analysis:-
@@ -130,13 +128,13 @@ XML:-
 WSDL, XSD schema & DTD design, XPath, XSLT, DOM, SAX, StAX, JAX-B
 
 Web Services:-
-Axis 1/2, JAX-WS, JAX-RS, SOAP, REST, JSON
+Axis, JAX-WS, JAX-RS, SOAP, REST, JSON
 
 Source Control Revision Systems:-
 Git, Subversion (SVN) & CVS, MS Source Safe
  
 Build Systems:-
-Apache Maven 1/2/3, Apache Ant
+Apache Maven, Apache Ant
 
 IDEs:-
 Netbeans, Eclipse, JEdit, ColdFusion Builder
@@ -145,4 +143,3 @@ Netbeans, Eclipse, JEdit, ColdFusion Builder
 REFERENCES
 
 References available on request.
-
