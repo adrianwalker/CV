@@ -105,7 +105,7 @@ SC clearance requested and granted for this role.
 > **Operating Systems**: Linux (CentOS)\
 > **Testing / CI**: JUnit, DBUnit, Mockito, Hamcrest, Hudson\
 > **Source Control**: CVS, Subversion\
-> **IDEs**:	Eclipse\
+> **IDEs**: Eclipse
 
 ###### Dec. 2007 – July 2008
 **Information Systems Developer**\
