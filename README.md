@@ -165,7 +165,7 @@ Fulford School, York
 **The British Computer Society**\
 Professional Membership (MBCS)
 
-###### 2008 – 2018
+###### 2008 – present
 **Security Clearance**\
 Security Check (SC) Cleared
 
