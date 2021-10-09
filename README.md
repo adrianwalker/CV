@@ -2,7 +2,7 @@
  
 **Email**: adrian.walker@bcs.org
  
-A full stack developer with 14 years professional experience building bespoke systems using mostly Java and Python.  An excellent problem solver with the ability to engineer systems using multiple technology stacks and drive projects to successful completion.  Now seeking new software engineering challenges and career development prospects.
+A full stack developer with 17 years professional experience building bespoke systems using mostly Java and Python.  An excellent problem solver with the ability to engineer systems using multiple technology stacks and drive projects to successful completion.  Now seeking new software engineering challenges and career development prospects.
 
 #### EXPERIENCE
 
