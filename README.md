@@ -12,8 +12,6 @@ NHS Digital / Health and Social Care Information Centre
 
 Currently a member of the Spine 2 Devops team.  Developing and supporting a high availability, highly concurrent, national scale system.  Spine 2 is the central messaging and demographic / clinical / prescription data record storage system for the NHS, joining together over 23,000 healthcare IT systems in 20,500 organisations.  Designing, implementing and testing new features, extending current functionality and debugging issues in the existing codebase.  Other responsibilities include live system triage (3rd line support), weekend on call, and out of hours live deployment rotas.
 
-SC clearance granted for this role.
-
 > **Methodologies**: Scrum, Devops, TDD\
 > **Languages**: Python 2, Bash\
 > **Python**: Flask, Tornado\
@@ -68,8 +66,6 @@ The Food and Environment Research Agency
 
 Developing commercial and in-house computer systems to further the Science of FERA and a range of internal and external stakeholders e.g. DEFRA, the EU and other government bodies.  Responsible for the design and development of web applications, mobile applications, databases and information systems.
 
-SC clearance granted for this role.
-
 > **Languages**: ColdFusion 8, Java 6, Java ME Personal Profile 1.0/1.1, JavaScript, Python 2\
 > **Web**: XHTML, CSS, AJAX, prototype.js, Scriptaculous, jQuery\
 > **Web Services**: REST + JSON / XML\
@@ -84,8 +80,6 @@ SC clearance granted for this role.
 Erudine
 
 Developer on customer projects in education, commercial and government sectors. Using agile and extreme programming techniques to deliver high quality, innovative systems to meet tight deadlines.  Also working on the latest release of the company’s product the ‘Behaviour Engine’ - a test driven rule engine and graphical authoring environment.
-
-SC clearance requested and granted for this role.
 
 > **Methodologies**: Scrum, XP, Kanban, TDD\
 > **Languages**: Java 6\
