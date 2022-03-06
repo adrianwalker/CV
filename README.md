@@ -13,7 +13,7 @@ NHS Digital / Health and Social Care Information Centre
 Currently a member of the Spine 2 Devops team.  Developing and supporting a high availability, highly concurrent, national scale system.  Spine 2 is the central messaging and demographic / clinical / prescription data record storage system for the NHS, joining together over 23,000 healthcare IT systems in 20,500 organisations.  Designing, implementing and testing new features, extending current functionality and debugging issues in the existing codebase.  Other responsibilities include live system triage (3rd line support), weekend on call, and out of hours live deployment rotas.
 
 > **Methodologies**: Scrum, Devops, TDD\
-> **Languages**: Python 2, Bash\
+> **Languages**: Python 2, JavaScript, Bash\
 > **Python**: Flask, Tornado\
 > **NoSQL Databases**: Riak, Redis\
 > **Operating Systems**: Linux (Ubuntu)\
