@@ -94,7 +94,7 @@ Developer on customer projects in education, commercial and government sectors. 
 **Information Systems Developer**\
 The University Of York
 
-Sole developer for the Department of Biology, responsible for the implementation of the department’s electronic information strategy.  Developing bespoke, data driven, interactive web sites in to manage and increase the availability of dynamic information.  Extending and deploying Alfresco open source Enterprise Content Management system to hold the Department's administration and research data.
+Sole developer for the Department of Biology, responsible for the implementation of the department’s electronic information strategy. Developing bespoke, data driven, interactive web sites to manage and increase the availability of dynamic information. Extending and deploying the Alfresco open source Enterprise Content Management system to hold the Department's administration and research data.
 
 > **Languages**: Java 6\
 > **Enterprise Java**: EJB 3, JSF 1, JSP/Servlet, JPA (Toplink), JQL, JDBC, Glassfish, Apache Tomcat\
