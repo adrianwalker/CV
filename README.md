@@ -25,7 +25,7 @@ Currently a member of the Spine 2 DevOps team.  Developing and supporting a high
 > **IDEs**: PyDev / Eclipse\
 > **Other**: RabbitMQ, Splunk, FHIR messaging
 
-Previously a member of the Architecture, Standards and Innovation team.  Developing systems and tools to author and support the creation, conversion, mapping and search of clinical terminologies and classifications.  Extending and developing open source projects to manage large clinical data sets such as SNOMED CT, ICD-10, OPCS-4 and DM+D, for internal customers and collaborating with external partners, Snomed International.
+Previously a member of the Architecture, Standards and Innovation team.  Developing systems and tools to author and support the creation, conversion, mapping and search of clinical terminologies and classifications.  Extending and developing open source projects to manage large clinical data sets such as SNOMED CT, ICD-10, OPCS-4 and DM+D, for internal customers and collaborating with external partner Snomed International.
 
 > **Methodologies**: Scrum\
 > **Languages**: Java 7 - 8, JavaScript\
